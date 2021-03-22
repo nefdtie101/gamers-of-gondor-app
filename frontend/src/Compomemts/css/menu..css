@@ -1,0 +1,15 @@
+/*This is the css file for menu component*/
+.MyNav{
+    background-color: gold;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    border-radius: 10px;
+
+}
+
+.link{
+    color: black;
+    margin-right: 25px;
+    text-decoration: none;
+}

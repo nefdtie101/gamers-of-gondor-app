@@ -1,0 +1,23 @@
+/*This is the css for footer*/
+
+footer > a > img {
+    width: 5%;
+    margin-top: 20px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+footer  > p{
+    margin-top: 0px;
+    padding-bottom: 0px;
+}
+
+footer > a {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+
+
+
+

@@ -1,0 +1,52 @@
+/*This is the css for the home page*/
+
+body{
+    color: gold;
+    background-color: #161617;
+
+}
+
+.nav{
+    margin-top: 30px;
+    margin-right: 10px;
+    text-align: right;
+}
+
+.nav > a{
+    padding: 5px;
+    margin-top: 2px;
+    border-style: solid;
+    border-color: gold;
+    border-radius: 10px;
+    color: black;
+    background-color: gold;
+    font-size:20px ;
+    text-decoration:none;
+}
+
+.Home > h1{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.Home > h3{
+    margin-top: 0px ;
+}
+
+.Home > p{
+    margin-right: 25%;
+    margin-left: 25%;
+    padding-top: 0px ;
+    margin-top: 0px;;
+}
+
+.Home > h2{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.Home > img{
+    width: 25%;
+    margin-top : 30px;
+    margin-bottom: 30px;
+}

@@ -1,0 +1,16 @@
+.verify > button {
+    padding: 5px;
+    margin-top: 10px;
+    border-style: solid;
+    border-color: gold;
+    border-radius: 10px;
+    color: black;
+    background-color: gold;
+    font-size: 15px;
+}
+.myFooter{
+    position:absolute;
+    left:0;
+    bottom:0;
+    right:0;
+}
